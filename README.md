@@ -1,6 +1,6 @@
 # ui-kit-test-component
 
-## Itroduction
+## Introduction
 
 This is a test exercise to evaluate various skills level for a frontend developer candidate.
 
